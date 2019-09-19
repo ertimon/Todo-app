@@ -16,9 +16,6 @@
                      <button @click="deleteTask(task)" class="btn-danger btn-small">delete</button></p>
                 </li>
             </ul>
-       
-        <!-- <input type="text" ref="input">
-        <button @click="addTask" class="btn btn-outline-primary">Add task</button> -->
     </section>
 </template>
 
